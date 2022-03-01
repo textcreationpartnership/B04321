@@ -1,0 +1,471 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Maudlin the merchant's daughter of Bristol. To the tune of, The maiden's joy, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04321</idno>
+            <idno type="STC">Wing M1331</idno>
+            <idno type="STC">ESTC R235762</idno>
+            <idno type="EEBO-CITATION">47012531</idno>
+            <idno type="OCLC">ocm 47012531</idno>
+            <idno type="VID">174498</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04321)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174498)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2690:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Maudlin the merchant's daughter of Bristol. To the tune of, The maiden's joy, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by and for W.O. and are to be sold by the Booksellers of Pye-corner and London-bridge.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Right half-sheet contains: The second part of sweet Maudlin, to the same tune.</note>
+                  <note>Imperfect: sheet cropped at top with loss of text.</note>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:174498:1"/>
+            <head>MAUDLIN The Merchant's Daughter of <hi>BRISTOL.</hi>
+            </head>
+            <opener>To the Tune of, <hi>The Maiden's Ioy,</hi> &amp;c.</opener>
+            <div n="1" type="part">
+               <lg>
+                  <l>Behold the touchſtone of true love,</l>
+                  <l>
+                     <hi>Maudlin</hi> the Merchant's daughter of <hi>Briſtow</hi> town,</l>
+                  <l>Whoſe fi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m affection nothing could move,</l>
+                  <l>her favour beats the lovely brown.</l>
+                  <l>A gallant youth was dwelling by,</l>
+                  <l>which many years h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d born this maiden great good will,</l>
+                  <l>She loved him ſo faithfully;</l>
+                  <l>but all her friends withſtood it ſtill.</l>
+                  <l>The young man now perceiving well,</l>
+                  <l>he could not get nor win the favour of her friends,</l>
+                  <l>The force of ſorrow to expel,</l>
+                  <l>and view ſtrange countries he intends;</l>
+                  <l>And now to take his laſt farewell</l>
+                  <l>of his true love, his fair and conſtant <hi>Maudlin,</hi>
+                  </l>
+                  <l>With muſick ſwéet that did excel,</l>
+                  <l>he plaid under her window then:</l>
+                  <l>Farewell (quoth he) mine own true love,</l>
+                  <l>farewel my dear and chiefeſt treaſure of my heart,</l>
+                  <l>Through fortune's ſpight that falſe did prove,</l>
+                  <l>I am i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>forc'd from thee to part,</l>
+                  <l>Into the land of <hi>Italy:</hi>
+                  </l>
+                  <l>there will I wail and weary out my life in woe,</l>
+                  <l>Seeing my true love is kept from me,</l>
+                  <l>I hold my life a mortal foe:</l>
+                  <l>Fair <hi>Briſtow</hi> town therefore adieu,</l>
+                  <l>for <hi>Padua</hi> ſhall be my habitation now,</l>
+                  <l>Although my love doth reſt in thee,</l>
+                  <l>to whom alone my heart I vow.</l>
+                  <l>With trickling tears thus did he ſing,</l>
+                  <l>with ſighs &amp; ſobs deſcending from his heart full ſore,</l>
+                  <l>He ſaid when he his hands did wring,</l>
+                  <l>Farewel ſwéet love for evermore.</l>
+                  <l>Fair <hi>Maudlin</hi> from a window high,</l>
+                  <l>beholding her true love with muſick where he ſtood,</l>
+                  <l>But not a word ſhe did reply,</l>
+                  <l>fearing her parents angry mood.</l>
+                  <l>In tears ſhe ſpent that woful night,</l>
+                  <l>wiſhing herſelf, though naked, with her faithful friend,</l>
+                  <l>She b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ames her friends and fortune's ſpight,</l>
+                  <l>that wrought her love ſuch luckleſs end:</l>
+                  <l>And in her heart ſhe made a vow,</l>
+                  <l>clean to forſake her country and her kindred all,</l>
+                  <l>And for to follow her true love,</l>
+                  <l>to abide all chance that might befal.</l>
+                  <l>The night is gone, and he day is come,</l>
+                  <l>and in the morning very early did ſhe riſe,</l>
+                  <l>She gets her down into a lower room,</l>
+                  <l>where ſundry ſeamen ſhe eſpies:</l>
+                  <l>A gallant maſter among them all,</l>
+                  <l>the maſter of a great and godly ſhip was he,</l>
+                  <l>Who there was waiting in the hall,</l>
+                  <l>to ſpeak with her father if it might be.</l>
+                  <l>She kindly takes him by the hand,</l>
+                  <l>Good ſir, ſaid ſhe, &amp; would thou ſpeak with any here?</l>
+                  <l>Quoth he Fair maid, and therefore I do ſtand.</l>
+                  <l>Then gentle ſir, I pray draw near;</l>
+                  <l>Into a pleaſant parlor by,</l>
+                  <l>both hand in hand ſhe brings the ſeaman all alone,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ng to him moſt piteouſly,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>us to him did make her moan,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> upon her bended knée,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>ſaid ſhe, now pity you a woman's woe,</l>
+                  <l>And prove a faith<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ul friend to me,</l>
+                  <l>that I to you my grief may ſhow,</l>
+                  <l>Sith you repo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e your truſt, be ſaid,</l>
+                  <l>in me who <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m unknown, &amp; eke a ſtranger here,</l>
+                  <l>Be you aſſur'd moſt proper Maid,</l>
+                  <l>moſt fa<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> ſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill I will appear:</l>
+                  <l>I hav<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a brother then (quoth ſhe)</l>
+                  <l>whom as my life I love &amp; favour tenderly,</l>
+                  <l>In <hi>Padua,</hi> alas! l<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>s he,</l>
+                  <l>full ſick, God wot, and like to die,</l>
+                  <l>Full fai<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> I would my brother ſee,</l>
+                  <l>but that my father will not yield to let me go,</l>
+                  <l>Therefore, good ſir, he good to me,</l>
+                  <l>and unto me this favour ſhow:</l>
+                  <l>Some ſhip boy's garment bring to me,</l>
+                  <l>that I diſguiſ'd may go unknown,</l>
+                  <l>And unto ſee I'll go with thee,</l>
+                  <l>if thus much favour might be ſhown.</l>
+                  <l>Fair maid (quoth he) take her my hand,</l>
+                  <l>I will fulfill each thing that you deſire,</l>
+                  <l>And ſet you ſafe in that ſame land,</l>
+                  <l>and in the place that you require.</l>
+                  <l>She gave to him a tender kiſs,</l>
+                  <l>and faith, your ſervant maſter I will be,</l>
+                  <l>and prove your faithful friend for this,</l>
+                  <l>ſweet maſter then forget not me.</l>
+                  <l>This done as they had both agreed,</l>
+                  <l>ſoon after that before the break of day,</l>
+                  <l>He brings her garments then with ſpeed,</l>
+                  <l>therein herſelf ſhe did array;</l>
+                  <l>And e're her father did ariſe</l>
+                  <l>ſhe méets her maſter as he walked in the hill,</l>
+                  <l>She did attend on him likewiſe,</l>
+                  <l>until her father did him call.</l>
+                  <l>But e're the merchant made an end</l>
+                  <l>of all his weighty matters all,</l>
+                  <l>His wife came weeping in with ſpeed,</l>
+                  <l>ſaying, Our daughter's gone away.</l>
+                  <l>The merchant then amaz'd in mind,</l>
+                  <l>Yonder vile wretch intic'd away my child (<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d. he)</l>
+                  <l>But I well wot I ſhall him find</l>
+                  <l>at <hi>Padua</hi> in <hi>Italy.</hi>
+                  </l>
+                  <l>With that beſpoke the maſter brave,</l>
+                  <l>Worſhipful Merchant, thither goes this you<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h,</l>
+                  <l>And any thing that you would crave,</l>
+                  <l>he will perform and write the truth.</l>
+                  <l>Sweet youth (qd.he) if it be ſo,</l>
+                  <l>bear me a letter to the <hi>Engliſh</hi> there,</l>
+                  <l>And gold on thee I will beſtow;</l>
+                  <l>my daughter's welfare I do fear.</l>
+                  <l>Her mother took her by the hand,</l>
+                  <l>Fair youth (qd. ſhe) if e're thou doſt my daught<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r ſee</l>
+                  <l>Let me ſoon thereof underſtand,</l>
+                  <l>and there is twenty crowns for thee,</l>
+                  <l>Thus through the daughter's ſtrange diſguiſe,</l>
+                  <l>her mother knew not when ſhe ſpake unto her,</l>
+                  <l>Then after her maſter ſtraight ſhe hies</l>
+                  <l>taking her leave with countenance mild;</l>
+                  <l>Thus to the ſea ſweet <hi>Maudlin</hi> is gone</l>
+                  <l>with her gentle maſter, God ſend them</l>
+                  <l>Where we a while muſt let them alone</l>
+                  <l>till you the ſecond part do find.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Second PART of Sweet <hi>MAUDLIN,</hi>
+               </head>
+               <opener>to the ſame Tune.</opener>
+               <lg>
+                  <l>WElcome ſweet <hi>Maudlin</hi> from the ſeas,</l>
+                  <l>where bitter ſtorms &amp; tempeſts do ariſe,</l>
+                  <l>The pleaſant banks of <hi>Italy,</hi>
+                  </l>
+                  <l>you may behold with mortal eyes;</l>
+                  <l>Thanks gentle maſter, then ſaid ſhe,</l>
+                  <l>a faithful friend in ſorrow thou haſt been,</l>
+                  <l>If fortune once do ſmile on me,</l>
+                  <l>my gentle heart ſhall ſoon be ſeen;</l>
+                  <l>Bleſt be the land that feeds my love,</l>
+                  <l>bleſt be the place whereas his perſon doth abide,</l>
+                  <l>No tryal will I ſtick to prove,</l>
+                  <l>thereby my true love may be try'd:</l>
+                  <l>Now will I walk with joyful heart,</l>
+                  <l>to view the town whereas my darling doth re<g ref="char:EOLhyphen"/>main</l>
+                  <l>And ſeek him out in every part,</l>
+                  <l>until his ſight I do obtain;</l>
+                  <l>And I quoth he, will not forſake</l>
+                  <l>ſweet <hi>Maudlin</hi> in her ſorrow up and down,</l>
+                  <l>In wealth or woe thy part I'll take,</l>
+                  <l>and bring thee ſafe to <hi>Padua</hi> town:</l>
+                  <l>And after many weary ſteps,</l>
+                  <l>in <hi>Padua</hi> they arrived at the laſt,</l>
+                  <l>For very joy her heart it leaps,</l>
+                  <l>ſhe thinks not on her ſorrows paſt,</l>
+                  <l>Condemn'd he was to dye, alas!</l>
+                  <l>except he would from his religion turn,</l>
+                  <l>But rather then he would to maſs,</l>
+                  <l>in fi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry flames he vow'd to burn.</l>
+                  <l>Now doth ſweet <hi>Maudlin</hi> weep and wail,</l>
+                  <l>her joy is turn'd to wéeping, ſorrow, grief &amp; care,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or nothing could her plaints prevail,</l>
+                  <l>for death alone muſt be his ſhare,</l>
+                  <l>She walks under the priſon walls,</l>
+                  <l>where her true love did lye &amp; languiſh in di<g ref="char:EOLhyphen"/>ſtreſs,</l>
+                  <l>Then wofully for food he calls,</l>
+                  <l>when hunger did his heart <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>reſs;</l>
+                  <l>He ſighs and ſobs, and makes great moan,</l>
+                  <l>Farewel ſweet-heart for ever more,</l>
+                  <l>And all my friends that have me known,</l>
+                  <l>in <hi>Briſtow</hi> town with wealth and ſtore.</l>
+                  <l>But moſt of all, farewel, quoth he,</l>
+                  <l>my own ſweet <hi>Maudlin</hi> whom I left behind,</l>
+                  <l>For never more thou ſhalt me ſee,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to thy father moſt unkind:</l>
+                  <l>Ho<gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap> well I were if thou were here,</l>
+                  <l>With thy fair hand to cloſe theſe my wretched eyes</l>
+                  <l>My torment eaſie would appear,</l>
+                  <l>my ſoul with joy would ſcale the skies.</l>
+                  <l>When <hi>Maudlin</hi> heard her lover's moan,</l>
+                  <l>her eyes with tears, her heart with ſorrow filled was,</l>
+                  <l>To ſpeak with him no means was found,</l>
+                  <l>ſuch grievous doom did on him paſs.</l>
+                  <l>Then ſhe put off her lad's attire,</l>
+                  <l>her maidens weed upon her back ſhe ſéemly ſet,</l>
+                  <l>To the judge's houſe ſhe did inquire,</l>
+                  <l>and there ſhe did a ſervice get:</l>
+                  <l>She did her duty there ſo well,</l>
+                  <l>and eke ſo prudently ſhe did herſelf behave,</l>
+                  <l>With her in love her maſter fell</l>
+                  <l>his ſervant's favour he doth crave:</l>
+                  <l>
+                     <hi>Maudlin,</hi> quoth he, my heart's delight,</l>
+                  <l>to whom my heart in affection is ty'd,</l>
+                  <l>Br<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> not my death through thy diſpight,</l>
+                  <l>a faithful friend then ſhalt ame find.</l>
+                  <l>O grant me thy love fair maid, quoth he,</l>
+                  <l>and at my hands deſire what thou canſt deviſe,</l>
+                  <l>And I will grant it unto thee,</l>
+                  <l>whereby thy credit may ariſe,</l>
+                  <l>I have a brother, ſir, ſaid ſhe,</l>
+                  <l>for his religion is now condemn'd to dye,</l>
+                  <l>In loathſome priſon he is caſt,</l>
+                  <l>oppreſt with grief and miſrey:</l>
+                  <l>Grant me my brother's life (ſhe ſaid)</l>
+                  <l>and now to you my love &amp; liking will I give.</l>
+                  <l>That may not be (quoth he) fair maid,</l>
+                  <l>except he turn he cannot live:</l>
+                  <l>An <hi>Engliſh</hi> fryer there is (ſhe ſaid)</l>
+                  <l>of learning great, and paſſing pure of life,</l>
+                  <l>Let him to my brother be ſent,</l>
+                  <l>and he will finiſh ſoon the ſtrife.</l>
+                  <l>Her maſter granted her requeſt,</l>
+                  <l>the marriner in fryer's wéeds ſhe did array</l>
+                  <l>And to her love that lay diſtreſt,</l>
+                  <l>ſhe did a letter ſoon convey,</l>
+                  <l>When he had read theſe gentle lines,</l>
+                  <l>his ſtart was raviſhed with pleaſant joy,</l>
+                  <l>Where now ſhe is full well he knew,</l>
+                  <l>the fryer likewiſe was not coy;</l>
+                  <l>But did declare to him at large,</l>
+                  <l>the enterprize his love for him had taken in hand:</l>
+                  <l>The young man did the fryer charge,</l>
+                  <l>his love ſhould ſtraight depart the land</l>
+                  <l>Here is no place for her (he ſaid)</l>
+                  <l>but woful death and danger other life,</l>
+                  <l>Profeſſing truth I was betraid,</l>
+                  <l>and fearful flames muſt end the ſtrife.</l>
+                  <l>For e'er I will my faith deny,</l>
+                  <l>and ſwear myſelf to follow damned antichriſt,</l>
+                  <l>I'll yield my body for to dye,</l>
+                  <l>to live in heav<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the higheſt.</l>
+                  <l>O ſir, the gentle <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>id</l>
+                  <l>conſent thereto, and end the ſtrife,</l>
+                  <l>A woful match (quoth he) is made,</l>
+                  <l>where Chriſt is left to win a wife.</l>
+                  <l>When ſhe had us'd all means ſhe might,</l>
+                  <l>to ſave his life, and yet all would not be,</l>
+                  <l>Then of the judge ſhe claim'd her right,</l>
+                  <l>to dye the death as well as he.</l>
+                  <l>When no perſwaſions could prevail.</l>
+                  <l>nor change her mind in any thing that ſhe had ſaid</l>
+                  <l>She was with him condemn'd to dye,</l>
+                  <l>and for them both one fire was made:</l>
+                  <l>Yea, arm in arm moſt joyfully,</l>
+                  <l>theſe lovers twain unto the fire did go,</l>
+                  <l>The marriner moſt faithfully,</l>
+                  <l>was likewiſe partner of their woe.</l>
+                  <l>But when the judges underſtood,</l>
+                  <l>the faithful friendſhip did in them remain,</l>
+                  <l>They ſav'd their lives, and afterwards,</l>
+                  <l>to <hi>England</hi> ſent them back again.</l>
+                  <l>Now was their ſorrow turn'd to joy,</l>
+                  <l>and faithful lovers have their hearts deſire,</l>
+                  <l>Their pains ſo well they did imploy,</l>
+                  <l>God granted that they did deſire,</l>
+                  <l>And when they did to <hi>England</hi> come,</l>
+                  <l>and in merry <hi>Briſtow</hi> arrived at the laſt,</l>
+                  <l>Great joy there was to all and ſome,</l>
+                  <l>that heard the dangers they had paſt:</l>
+                  <l>Her father he was dead God wot,</l>
+                  <l>and the her mother was joyful at her ſight,</l>
+                  <l>Their wiſhes ſhe denyed not,</l>
+                  <l>but wedded them to hearts delight:</l>
+                  <l>Her gentle maſter ſhe deſired,</l>
+                  <l>to be her father, and at Church to give her then</l>
+                  <l>It was fulfilled as ſhe required,</l>
+                  <l>to the joys of all good men.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed by and for <hi>W. O.</hi> and are to be ſold by the Bookſellers of <hi>Pye-corner</hi> and <hi>London-bridge.</hi>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
